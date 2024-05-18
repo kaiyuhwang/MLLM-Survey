@@ -5,7 +5,7 @@ Considering the rapid growth of the research of multilingual NLP, we have establ
 
 This is also a tutorial of multilingual pre-trained models maintained by the Beijing Jiaotong University (BJTU) NLP Group (Continual Updated).
 
-The past five years have witnessed the rapid development of multilingual pre-trained models, especially for data-driven large language models (LLMs). Due to the dominance of multilingual NLP at the present time, priority is given to collecting important, up-to-date multilingual pre-trained models papers and their performance. As one of the contributions of the survey, we continuously update and expand the content according to the chapters in the survey. Our list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. [Any suggestions are welcome!](##Contact Us)
+The past five years have witnessed the rapid development of multilingual pre-trained models, especially for data-driven large language models (LLMs). Due to the dominance of multilingual NLP at the present time, priority is given to collecting important, up-to-date multilingual pre-trained models papers and their performance. As one of the contributions of the survey, we continuously update and expand the content according to the chapters in the survey. Our list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. [Any suggestions are welcome!](##mis)
 
 ## LLMs with Multilingualism
 We only present an overview of **representative** LLMs (most of trainable parameters greater than ***7B***) that have certain multilingual capabilities, including their release time and details. The latest models that achieve good performance on the leaderboard will be updated in a timely manner, or contact us for updates and promotion.
@@ -14,7 +14,7 @@ We only present an overview of **representative** LLMs (most of trainable parame
 
 We investigate the LLMs with multilingualism in our reconstructed benchmarks. *(If there are many versions of a model, we only choose the version that perform the best.)*
 
-In this leaderboard we use a unified *prompt* for each task to explore the multilingual capabilities of the model. The potential enhancement capabilities of the model are explored in the next chapter "**[Multilingual Inference Strategies](##Multilingual Inference Strategies)**".
+In this leaderboard we use a unified *prompt* for each task to explore the multilingual capabilities of the model. The potential enhancement capabilities of the model are explored in the next chapter "**[Multilingual Inference Strategies](##mis)**".
 
 > 🎈 A suite for calling LLMs is coming soon! The benchmark is under built.
 
@@ -23,7 +23,7 @@ In this leaderboard we use a unified *prompt* for each task to explore the multi
 > All models are available on the Internet. The link of paper or Github is given.
 
 - LLaMA, Meta AI
-  - LLaMA-1, [LLaMA: Open and Efficient Foundation Language Models]((https://arxiv.org/abs/2302.13971)), 2023.02.27
+  - LLaMA-1, [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), 2023.02.27
   - LLaMA-2, [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288), 2023.07.18
   - LLaMA-3, [Meta Llama 3](https://github.com/meta-llama/llama3/tree/main), 2023.04.18
 - GLM, ZHIPU, [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B), 2023.05.13, The other versions are released at their Github as well.
@@ -63,7 +63,7 @@ We only investigate a few representative closed-source LLMs because most of thes
   - [PaLM-2](https://ai.google/discover/palm2/)
 - Claude, [Anthropic](https://claude.ai/)
 - Gemini, DeepMind, [Chat with Gemini](https://gemini.google.com/?hl=zh)
-
+<span id="mis"></span>
 ## Multilingual Inference Strategies
 We investigate several inference strategies for LLMs to explore the potential enhancement capabilities with multilingualism in the related benchmarks. *(The multilingual inference strategies are to act on prompt with external knowledge, and LLMs are frozen.)*
 
@@ -93,9 +93,9 @@ We investigate several inference strategies for LLMs to explore the potential en
 |                     | Trans-Google | 41.3 | 59.2  | 55.0 | 51.5   | 17.0 | 44.8 |
 |                     | Trans-NLLB   | 31.7 | 54.4  | 53.0 | 52.4   | 15.5 | 41.4 |
 | Llama-2-7B-Chat     | Basic        | 8.4  | 46.5  | 34.6 | 48.1   | 14.4 | 30.4 |
-|                     | En-Basic     | 9.3  | 49.7  | 39   | 48.8   | 16.1 | 32.6 |
+|                     | En-Basic     | 9.3  | 49.7  | 39.0 | 48.8   | 16.1 | 32.6 |
 |                     | CoT          | 10.9 | 46.3  | 35.6 | 48.3   | 13.3 | 30.9 |
-|                     | En-CoT       | 13.6 | 54.9  | 41   | 48.7   | 13.8 | 34.4 |
+|                     | En-CoT       | 13.6 | 54.9  | 41.0 | 48.7   | 13.8 | 34.4 |
 |                     | XLT          | 10.4 | 50.8  | 44.8 | 44.5   | 14.6 | 33.0 |
 |                     | Trans-Google | 28.6 | 67.7  | 45.5 | 57.5   | 19.8 | 43.8 |
 |                     | Trans-NLLB   | 24.8 | 64.6  | 44.1 | 56.2   | 17.4 | 41.4 |
@@ -130,7 +130,7 @@ Trans-X: [Query]=[Question -> English Question by X]+[Prompt -> English CoT: Let
 
 ### Reading List
 
-We provide a [reading list]() (Continual Updated) for this chapter corresponding to the section 4 in the survey.
+We provide a [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/readinglist/inference.md) (Continual Updated) for this chapter corresponding to the section 4 in the survey.
 
 ##  Security
 
@@ -155,7 +155,7 @@ This leaderboard is built by the EasyJailbreak framework on the AdvBench.
 
 ### Reading List
 
-We provide a [reading list]() of jailbreaking and defense methods (Continual Updated) for this chapter corresponding to the section 5 in the survey.
+We provide a [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/readinglist/security.md) of jailbreaking and defense methods (Continual Updated) for this chapter corresponding to the section 5 in the survey.
 
 ## Multidomain
 
@@ -172,7 +172,7 @@ We provide a [reading list]() of jailbreaking and defense methods (Continual Upd
 > Coming soon! This domain is under updated.
 
 ## Data Resource & Evaluation
-The data resource and popular benchmarks are listed in the [page]() in details.
+The data resource and popular benchmarks are listed in the [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/readinglist/data.md) in details.
 
 ## Contact Us
 
