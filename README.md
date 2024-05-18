@@ -1,5 +1,5 @@
 # Multilingual Pre-trained Models Tutorial
-<img src='./blob/main/attach/mllm.png' height='400' style="float:left">
+<img src='./attach/mllm.png' height='400' style="float:left">
 
 Considering the rapid growth of the research of multilingual NLP, we have established this repository to gather relevant literature in this specific multilingual domain.  *(As a contribution of the survey paper "[A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers]()")*
 
