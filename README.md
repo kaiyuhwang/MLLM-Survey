@@ -1,5 +1,5 @@
 # Multilingual Pre-trained Models Tutorial
-<img src='C:\Users\huang\AppData\Roaming\Typora\typora-user-images\image-20240516202515585.png' height='400' style="float:left">
+<img src='./blob/main/attach/mllm.png' height='400' style="float:left">
 
 Considering the rapid growth of the research of multilingual NLP, we have established this repository to gather relevant literature in this specific multilingual domain.  *(As a contribution of the survey paper "[A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers]()")*
 
@@ -130,7 +130,7 @@ Trans-X: [Query]=[Question -> English Question by X]+[Prompt -> English CoT: Let
 
 ### Reading List
 
-We provide a [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/readinglist/inference.md) (Continual Updated) for this chapter corresponding to the section 4 in the survey.
+We provide a [reading list](./blob/main/readinglist/inference.md) (Continual Updated) for this chapter corresponding to the section 4 in the survey.
 
 ##  Security
 
@@ -155,7 +155,7 @@ This leaderboard is built by the EasyJailbreak framework on the AdvBench.
 
 ### Reading List
 
-We provide a [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/readinglist/security.md) of jailbreaking and defense methods (Continual Updated) for this chapter corresponding to the section 5 in the survey.
+We provide a [reading list](./blob/main/readinglist/security.md) of jailbreaking and defense methods (Continual Updated) for this chapter corresponding to the section 5 in the survey.
 
 ## Multidomain
 
@@ -172,7 +172,7 @@ We provide a [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/
 > Coming soon! This domain is under updated.
 
 ## Data Resource & Evaluation
-The data resource and popular benchmarks are listed in the [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/readinglist/data.md) in details.
+The data resource and popular benchmarks are listed in the [reading list](./blob/main/readinglist/data.md) in details.
 <span id="cus"></span>
 ## Contact Us
 
