@@ -5,7 +5,7 @@ Considering the rapid growth of the research of multilingual NLP, we have establ
 
 This is also a tutorial of multilingual pre-trained models maintained by the Beijing Jiaotong University (BJTU) NLP Group (Continual Updated).
 
-The past five years have witnessed the rapid development of multilingual pre-trained models, especially for data-driven large language models (LLMs). Due to the dominance of multilingual NLP at the present time, priority is given to collecting important, up-to-date multilingual pre-trained models papers and their performance. As one of the contributions of the survey, we continuously update and expand the content according to the chapters in the survey. Our list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. [Any suggestions are welcome!](##mis)
+The past five years have witnessed the rapid development of multilingual pre-trained models, especially for data-driven large language models (LLMs). Due to the dominance of multilingual NLP at the present time, priority is given to collecting important, up-to-date multilingual pre-trained models papers and their performance. As one of the contributions of the survey, we continuously update and expand the content according to the chapters in the survey. Our list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. [Any suggestions are welcome!](#cus)
 
 ## LLMs with Multilingualism
 We only present an overview of **representative** LLMs (most of trainable parameters greater than ***7B***) that have certain multilingual capabilities, including their release time and details. The latest models that achieve good performance on the leaderboard will be updated in a timely manner, or contact us for updates and promotion.
@@ -14,7 +14,7 @@ We only present an overview of **representative** LLMs (most of trainable parame
 
 We investigate the LLMs with multilingualism in our reconstructed benchmarks. *(If there are many versions of a model, we only choose the version that perform the best.)*
 
-In this leaderboard we use a unified *prompt* for each task to explore the multilingual capabilities of the model. The potential enhancement capabilities of the model are explored in the next chapter "**[Multilingual Inference Strategies](##mis)**".
+In this leaderboard we use a unified *prompt* for each task to explore the multilingual capabilities of the model. The potential enhancement capabilities of the model are explored in the next chapter "**[Multilingual Inference Strategies](#mis)**".
 
 > 🎈 A suite for calling LLMs is coming soon! The benchmark is under built.
 
@@ -173,7 +173,7 @@ We provide a [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/
 
 ## Data Resource & Evaluation
 The data resource and popular benchmarks are listed in the [reading list](https://github.com/kaiyuhwang/MLLM-Survey/blob/main/readinglist/data.md) in details.
-
+<span id="cus"></span>
 ## Contact Us
 
 **Project Lead:** 
