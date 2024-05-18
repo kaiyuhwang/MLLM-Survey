@@ -130,7 +130,7 @@ Trans-X: [Query]=[Question -> English Question by X]+[Prompt -> English CoT: Let
 
 ### Reading List
 
-We provide a [reading list](./blob/main/readinglist/inference.md) (Continual Updated) for this chapter corresponding to the section 4 in the survey.
+We provide a [reading list](./readinglist/inference.md) (Continual Updated) for this chapter corresponding to the section 4 in the survey.
 
 ##  Security
 
@@ -155,7 +155,7 @@ This leaderboard is built by the EasyJailbreak framework on the AdvBench.
 
 ### Reading List
 
-We provide a [reading list](./blob/main/readinglist/security.md) of jailbreaking and defense methods (Continual Updated) for this chapter corresponding to the section 5 in the survey.
+We provide a [reading list](./readinglist/security.md) of jailbreaking and defense methods (Continual Updated) for this chapter corresponding to the section 5 in the survey.
 
 ## Multidomain
 
@@ -172,7 +172,7 @@ We provide a [reading list](./blob/main/readinglist/security.md) of jailbreaking
 > Coming soon! This domain is under updated.
 
 ## Data Resource & Evaluation
-The data resource and popular benchmarks are listed in the [reading list](./blob/main/readinglist/data.md) in details.
+The data resource and popular benchmarks are listed in the [reading list](./readinglist/data.md) in details.
 <span id="cus"></span>
 ## Contact Us
 
