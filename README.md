@@ -194,11 +194,13 @@ The data resource and popular benchmarks are listed in the [reading list](./read
 ## Citation
 
 ```bib
-@article{xxx,
-  title={A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers},
-  author={xxx},
-  journal={arXiv preprint arXiv:xxx},
-  year={2024}
+@misc{huang2024survey,
+      title={A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers}, 
+      author={Kaiyu Huang and Fengran Mo and Hongliang Li and You Li and Yuanchi Zhang and Weijian Yi and Yulong Mao and Jinchen Liu and Yuzhuang Xu and Jinan Xu and Jian-Yun Nie and Yang Liu},
+      year={2024},
+      eprint={2405.10936},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
