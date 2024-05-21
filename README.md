@@ -1,7 +1,7 @@
 # Multilingual Pre-trained Models Tutorial
 <img src='./attach/mllm.png' height='400' style="float:left">
 
-Considering the rapid growth of the research of multilingual NLP, we have established this repository to gather relevant literature in this specific multilingual domain.  *(As a contribution of the survey paper "[A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers]()")*
+Considering the rapid growth of the research of multilingual NLP, we have established this repository to gather relevant literature in this specific multilingual domain.  *(As a contribution of the survey paper "[A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers](https://arxiv.org/abs/2405.10936)")*
 
 This is also a tutorial of multilingual pre-trained models maintained by the Beijing Jiaotong University (BJTU) NLP Group (Continual Updated).
 
