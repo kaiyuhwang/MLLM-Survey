@@ -25,7 +25,7 @@ In this leaderboard we use a unified *prompt* for each task to explore the multi
 - LLaMA, Meta AI
   - LLaMA-1, [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971), 2023.02.27
   - LLaMA-2, [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288), 2023.07.18
-  - LLaMA-3, [Meta Llama 3](https://github.com/meta-llama/llama3/tree/main), 2023.04.18
+  - LLaMA-3, [Meta Llama 3](https://github.com/meta-llama/llama3/tree/main), 2024.04.18
 - GLM, ZHIPU, [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B), 2023.05.13, The other versions are released at their Github as well.
 - Baichuan, Baichuan AI
   - Baichuan-1, [Technical Report](https://huggingface.co/baichuan-inc/Baichuan-7B), 2023.06.15
