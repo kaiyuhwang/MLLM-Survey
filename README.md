@@ -137,7 +137,7 @@ We provide a [reading list](./readinglist/inference.md) (Continual Updated) for 
 
 ### Jailbreaking Leaderboard
 
-This leaderboard is built by the EasyJailbreak framework on the AdvBench.
+This leaderboard is built by the [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) framework on the AdvBench.
 
 | Method        | GPT-3.5 | GPT-4 | Llama-2-7B-Chat | Llama-2-13B-Chat | Vicuna-7B-v1.5 | Vicuna-13B-v1.5 | ChatGLM | Qwen-7B-Chat | InterLM-7B | Mistral-7B |
 | ------------- | ------- | ----- | --------------- | ---------------- | -------------- | --------------- | ------- | ------------ | ---------- | ---------- |
