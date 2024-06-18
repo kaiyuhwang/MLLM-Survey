@@ -42,7 +42,7 @@ jailbreak of open-source llms via exploiting generation](https://arxiv.org/pdf/2
 
 
 ## Defense
-We are surveying more defenses.
+We are investigating more defense methods...
 ### For Open-Source Models
 * Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, and Lidong Bing. 2023. [Multilingual jailbreak challenges in large language models](https://arxiv.org/pdf/2310.06474). *arXiv:2310.06474*. 
 * Jie Li, Yi Liu, Chongyang Liu, Ling Shi, Xiaoning Ren, Yaowen Zheng, Yang Liu, and
